@@ -5,7 +5,8 @@
 
 ## Сслылка на проект @restaurant_Vezuvyi_bot
 
-
+![скрин 1](https://github.com/Airathabib/Al_assistant_restaurant/blob/main/vez-5.png)
+![скрин 2](https://github.com/Airathabib/Al_assistant_restaurant/blob/main/vez-6.png)
 
 ### **Цель проекта**  
 Создание интеллектуального ассистента для ресторана итальянской кухни "Везувий", способного:  
